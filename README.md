@@ -39,7 +39,7 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
 
 ## Languages and Tools
 
-<div style=" display: flex; flex-wrap: wrap; justify-content: center;" >  
+<div style="text-align: center;" >  
   <a href="https://reactjs.org/" target="_blank"><img style="height: 4rem;
   padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"/></a>  
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="height: 4rem;
@@ -98,12 +98,15 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
 
 ## Github Stats
 
-<div style="display: flex;
-  justify-content: space-between;">
-  <div style="display: flex; align-items: center; width: 47.5%; background-color: white;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" style="width: 100%; height: 100%;" />
-  </div>
-  <div style="display: flex; align-items: center; width: 47.5%; background-color: white;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" style="width: 100%; height: 100%;" />
-  </div>
-</div>
+<table style="width: 100%;" >
+  <tbody>
+    <tr style="width: 50%; background-color: white;" >
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" />
+      </td>
+    </tr>
+  </tbody>
+</table>
