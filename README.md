@@ -100,11 +100,11 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
 
 <table style="width: 100%;" >
   <tbody>
-    <tr style="width: 50%; background-color: white;" >
-      <td>
+    <tr style="width: 100%; background-color: white;" >
+      <td style="width: 50% height: 100%; background-color: white;">
         <img src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" />
       </td>
-      <td>
+      <td style="width: 50% height: 100%; background-color: white;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" />
       </td>
     </tr>
