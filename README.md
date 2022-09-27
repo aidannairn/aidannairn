@@ -1,6 +1,38 @@
 # Hello World, I'm Aidan
 
-<link href="styles.css" rel="stylesheet"></link>
+<style>
+  .tech-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+a.tech-icon > img {
+  height: 4rem;
+  padding: 0.25rem;
+}
+
+.github-stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.github-stats > img {
+  width: 100%;
+}
+
+.github-stat {
+  display: flex;
+  align-items: center;
+  width: 47.5%;
+  background-color: white;
+}
+
+.github-stat > img {
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 <a href="https://linkedin.com/in/aidannairn" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
