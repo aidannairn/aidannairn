@@ -1,39 +1,5 @@
 # Hello World, I'm Aidan
 
-<style>
-  .tech-icons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-a.tech-icon > img {
-  height: 4rem;
-  padding: 0.25rem;
-}
-
-.github-stats {
-  display: flex;
-  justify-content: space-between;
-}
-
-.github-stats > img {
-  width: 100%;
-}
-
-.github-stat {
-  display: flex;
-  align-items: center;
-  width: 47.5%;
-  background-color: white;
-}
-
-.github-stat > img {
-  width: 100%;
-  height: 100%;
-}
-</style>
-
 <a href="https://linkedin.com/in/aidannairn" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -73,44 +39,71 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
 
 ## Languages and Tools
 
-<div class="tech-icons" >  
-  <a class="tech-icon" href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"/></a>  
-  <a class="tech-icon" href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"/></a>  
-  <a class="tech-icon" href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/></a>  
-  <a class="tech-icon" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/></a>  
-  <a class="tech-icon" href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/></a>  
-  <a class="tech-icon" href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"/></a>  
-  <a class="tech-icon" href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"/></a>  
-  <a class="tech-icon" href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"/></a>  
-  <a class="tech-icon" href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"/></a>  
-  <a class="tech-icon" href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"/></a>  
-  <a class="tech-icon" href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"/></a>  
-  <a class="tech-icon" href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass"/></a>  
-  <a class="tech-icon" href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"/></a>  
-  <a class="tech-icon" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase"/></a>  
-  <a class="tech-icon" href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress"/></a>  
-  <a class="tech-icon" href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL"/></a>  
-  <a class="tech-icon" href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"/></a>  
-  <a class="tech-icon" href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP"/></a>  
-  <a class="tech-icon" href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux"/></a>  
-  <a class="tech-icon" href="https://d3js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js"/></a>  
-  <a class="tech-icon" href="https://webpack.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack"/></a>  
-  <a class="tech-icon" href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator"/></a>  
-  <a class="tech-icon" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop"/></a>  
-  <a class="tech-icon" href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery"/></a>  
-  <a class="tech-icon" href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"/></a>  
-  <a class="tech-icon" href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest"/></a>  
+<div style=" display: flex; flex-wrap: wrap; justify-content: center;" >  
+  <a href="https://reactjs.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"/></a>  
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"/></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"/></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"/></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"/></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"/></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"/></a>  
+  <a href="https://expressjs.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"/></a>  
+  <a href="https://www.linux.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"/></a>  
+  <a href="https://sass-lang.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass"/></a>  
+  <a href="https://github.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"/></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase"/></a>  
+  <a href="https://wordpress.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress"/></a>  
+  <a href="https://graphql.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL"/></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"/></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP"/></a>  
+  <a href="https://redux.js.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux"/></a>  
+  <a href="https://d3js.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js"/></a>  
+  <a href="https://webpack.js.org/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack"/></a>  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator"/></a>  
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop"/></a>  
+  <a href="https://jquery.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery"/></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"/></a>  
+  <a href="https://www.jestjs.io/" target="_blank"><img style="height: 4rem;
+  padding: 0.25rem;" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest"/></a>  
 </div>  
 
 <br/>  
 
 ## Github Stats
 
-<div class="github-stats">
-  <div class="github-stat">
-    <img src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" />
+<div style="display: flex;
+  justify-content: space-between;">
+  <div style="display: flex; align-items: center; width: 47.5%; background-color: white;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" style="width: 100%; height: 100%;" />
   </div>
-  <div class="github-stat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" />
+  <div style="display: flex; align-items: center; width: 47.5%; background-color: white;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" style="width: 100%; height: 100%;" />
   </div>
 </div>
