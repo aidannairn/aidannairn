@@ -29,8 +29,6 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
   
 - **E-skating** - I purchased an electric skateboard this year. Never skateboarded previously. I've had a whole lot of fun learning!  
   
-- **Watching serial killer documentaries.**  
-  
 - **Food, Friends & Family** - Good food with good people. Can't ask for much else.  
 
 </div>  
