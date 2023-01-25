@@ -94,8 +94,8 @@ In May of 2022 I began studying at [Mission Ready HQ](https://www.missionreadyhq
 
 <br/>  
 
-## Github Stats
+<!-- ## Github Stats
 <div float="center" align="center" >
   <img width="44.8%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidannairn&hide_border=true&layout=compact" />
   <img width="53.6%" height="100%" src="https://github-readme-stats.vercel.app/api?username=aidannairn&show_icons=true&count_private=true&hide_border=true" />
-</div>
+</div> -->
